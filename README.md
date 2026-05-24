@@ -1,17 +1,45 @@
-# Bug-huntig-Web-App
-that's repo will take your hand from your main knowldge on how web work to methodology and some web hacking and OWAZP Top 10. 
-## Important!
-Iam not a master of bug hunting iam just documentaion my path , and you __should learn fundmental before start__!!!
+# 🛡️ Advanced Web Exploitation & Bug Bounty Path
 
+This repository is the core of my journey. I am not a master; I am a student of the craft just like you. I started from scratch and I am documenting every single step to keep my focus and to help anyone who feels lonely on this path. 
 
-## Web Development 
-***in real you didn't need to pe a senior on those just learn basics of front end that will take a 2 weaks if that's what that take's from me and if you want to go deep lurn the fundmental of backend just if you get poord like me learn the behind the Architecture and how is happend is Databases server and if you zero***
+Here, we go from "How the web works" to **Advanced Exploitation** and **WAF Evasion**.
 
-## Networking
-****you should before that all learn the network fundemntal just for now learn
-*OSI TCP/IP* and foucuse just in how protocols like *http,https,DHCP,DNS,Oauth,SAML,JWT,SMB,RDP,TLS,SSL*
-how it work that's all if you have just 4 hours in the day you can make a table for 2 months and you make a 2 hourse for a web and 1 hour for network and just 1 houre come here and read my repo after that you will become a ninja and with some exprince for 8 month's you will be a **Master Shifu.****
+> **⚠️ Important!**
+> I am not a master of bug hunting. I am just documenting my path. You MUST learn the fundamentals before you start deep diving here!
 
+---
+
+## 🗺️ The Roadmap (Master Path)
+
+This repository follows a structured path designed for real-world Bug Bounty hunting and preparing for advanced certifications (CWEE, OSWE, CPTS).
+
+1. **Injection Attacks** (SQLi, Command Injection, etc.) ⬅️ *Starting Now!*
+2. **Authentication & Session Management**
+3. **Attacking Authentication Mechanisms**
+4. **Advanced XSS & CSRF** (Check the dedicated folders)
+5. **WAF Evasion & Filter Bypassing**
+6. **Insecure Deserialization & Logic Flaws**
+7. **Modern Web Exploitation Techniques**
+
+---
+
+## 🌐 Web Development (The Foundation)
+In reality, you don't need to be a senior dev. Just learn the basics of Front-end (HTML/CSS/JS). It took me about 2 weeks. If you want to go deep, learn the **Architecture**: how databases and servers interact.
+
+* **Front-end:** [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+* **Backend:** [Essential Web Architecture Playlist](https://youtu.be/9BD9eK9VqXA?si=dJ7hmw_MLNXdfP1L)
+
+---
+
+## 🔌 Networking
+**Stop!** Before all of this, you MUST learn networking fundamentals. Focus on:
+`OSI Model, TCP/IP, HTTP/HTTPS, DHCP, DNS, OAuth, SAML, JWT, SMB, RDP, TLS/SSL`
+
+If you have 4 hours a day:
+* 2 hours for Web.
+* 1 hour for Networking.
+* 1 hour reading this Repo.
+**After 8 months of consistency, you will be a Master Shifu.**
 
 ⠀⣠⣶⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀
@@ -30,16 +58,11 @@ how it work that's all if you have just 4 hours in the day you can make a table 
 ⠀⠀⠀⠀⠀⠀⣼⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠻⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
+---
 
-## Free Resource to learn a web development
-**Front end**
-Just fo to free code camp and start with Responsive Web Design path 
-***Remember that ain't a school exam you didn't need to pass that you just want to learn how that is build.***
+## 📚 Free Resources
+* **Networking:** [Practical Networking - Fundamentals](https://www.practicalnetworking.net/)
+* **Practice Labs:** [PortSwigger Academy](https://portswigger.net/web-security), [DVWA](https://github.com/digininja/DVWA), [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 
-**Backend**
-Just going to this playlist you don't need more <ins>https://youtu.be/9BD9eK9VqXA?si=dJ7hmw_MLNXdfP1L</ins>.
-
-## Free Resource to learn Networking 
-Okay here just going to networking fundmental by <ins>Practical Networking</ins>
-
-***and just it,that's all for the fundmental***
+---
+**Persistence is the key. Your laptop is your best friend, and your brain is your greatest weapon. Keep hacking!**
